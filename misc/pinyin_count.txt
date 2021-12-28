@@ -1,7 +1,11 @@
 hao 2
 hui 2
+li 1 1
 ni 2
 shi 2 2
-wo 2
+wo 3
+zai 1
 zhang 3
+zhe 1 1
+zheli 1
 zhi 3
