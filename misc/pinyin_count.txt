@@ -1,11 +1,12 @@
-hao 2
-hui 2
-li 1 1
-ni 2
-shi 2 2
-wo 3
-zai 1
-zhang 3
+hao 3
+hui 3
+li 2 1
+na 1
+ni 4
+shi 3 3
+wo 4
+zai 2
+zhang 4
 zhe 1 1
 zheli 1
-zhi 3
+zhi 4
