@@ -1,7 +1,8 @@
 hao 3
 hui 3
-li 2 1
-na 1
+li 2 2
+na 1 1
+nali 1
 ni 4
 shi 3 3
 wo 4
